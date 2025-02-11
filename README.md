@@ -8,3 +8,5 @@ Group participants:
 - Brian Melhorado 50471
 
 [Presentation Video](https://drive.google.com/file/d/1O7Lk1R09utogpp6mcVf4L276qu0HYtwJ/view?usp=share_link)
+
+The app interfaces with an HTTP API developed in the DAW course. Key features include user authentication, channel management, and message exchange. The app includes screens for user credentials, subscribed channels, specific channel views, available public channels, and app authors' information. Optionally, the app supports offline message viewing.
