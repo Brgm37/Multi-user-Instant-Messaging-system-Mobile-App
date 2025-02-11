@@ -1,3 +1,7 @@
+This was a project made for the Mobile Devices Programming course.
+
+Grade 20/20
+
 Group participants:
 - Arthur Oliveira 50543
 - Mariana Moraes 50560
